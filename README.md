@@ -12,6 +12,12 @@
 ## 不具合報告やご要望
 https://forms.gle/rxCtjQBEW6YAUWar8
 
+## クレジット表記など
+- クレジット表記は任意です。
+- ニコニコ動画で親作品登録をしていただけると飛びながら視聴します。
+- URL：https://commons.nicovideo.jp/works/sm45175828
+- nc421865
+
 ## 使い方
 
 ### 1. 準備(インストール)
