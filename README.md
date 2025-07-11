@@ -9,6 +9,9 @@
 - VOICEVOXや棒読みちゃんからwavファイルを自動出力
 - ドラッグアンドドロップで送信
 
+## 不具合報告やご要望
+https://forms.gle/rxCtjQBEW6YAUWar8
+
 ## 使い方
 
 ### 1. 準備(インストール)
@@ -41,11 +44,6 @@
 - CeVIO CS 7.0.23.1
 - COEIROINKv2 2.5.1
 - AivisSpeech 1.1.0-preview.4
-
-第一検証
-- Windows11 24H2
-- Intel Core i5 8500
-- NVIDIA GeForce GTX 1050Ti
 
 ## 注意事項・制限事項
 
