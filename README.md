@@ -3,6 +3,7 @@
 ## 基本概要
 
 合成音声ソフトからAviUtl ExEdit2 へwavファイルを送るサポートをするソフトです。
+
 ダウンロードはReleasesから
 https://github.com/Mizuna3975/SofTalk_Bridge/releases
 
