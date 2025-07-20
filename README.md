@@ -9,7 +9,7 @@ https://github.com/Mizuna3975/SofTalk_Bridge/releases
 
 ## 主な機能
 
-- VOICEVOXや棒読みちゃんからwavファイルを自動出力
+- VOICEVOXや棒読みちゃんなどの合成音声ソフトからwavファイルを自動出力
 - ドラッグアンドドロップで送信
 
 ## 不具合報告やご要望
