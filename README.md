@@ -4,9 +4,6 @@
 
 合成音声ソフトからAviUtl ExEdit2 へwavファイルを送るサポートをするソフトです。
 
-ダウンロードはReleasesから
-https://github.com/Mizuna3975/SofTalk_Bridge/releases
-
 ## 主な機能
 
 - VOICEVOXや棒読みちゃんなどの合成音声ソフトからwavファイルを自動出力
@@ -33,10 +30,10 @@ https://forms.gle/rxCtjQBEW6YAUWar8
   対応する合成音声ソフトを起動し、セリフを入力してください。
 
   #### Step2
-  SofTalk Bridgeで使用するソフトを選択し、"音声保存をする"を押してください。
+  SofTalk Bridgeで使用するソフトを選択し、"音声保存"を押してください。
 
   #### Step3
-  SofTalk Bridgeの"ここからドラックアンドドロップ"で左クリック押したまま、AviUtl2の入れたいところへ移動して離してください。
+  SofTalk Bridgeの"ここからドラック"で左クリック押したまま、AviUtl2の入れたいところへ移動して離してください。
 
 ## スペシャルサンクス
 アイコン製作：Komorin様
@@ -45,7 +42,7 @@ https://forms.gle/rxCtjQBEW6YAUWar8
 動作確認で使用した環境及びソフトです。
 
 ソフトウェア
-- AviUtl ExEdit2 Beta1
+- AviUtl ExEdit2 Beta4
 - VOICEVOX 0.24.2
 - 棒読みちゃん Ver0.1.11.0 β21
 - A.I.VOICE 1.4.9
@@ -53,9 +50,10 @@ https://forms.gle/rxCtjQBEW6YAUWar8
 - CeVIO CS 7.0.23.1
 - COEIROINKv2 2.5.1
 - AivisSpeech 1.1.0-preview.4
+- VoiSona Talk 1.3.2.1
 
 ## 注意事項・制限事項
 
 - AviUtl2以外の動作保証はありません。
-- このソフトで発生した損害について、開発者は一切の責任を負いません。
+- このソフトで発生した損害等について、開発者は一切の責任を負いません。
 - このソフトを用いて作成した動画については、合成音声ソフトおよび動画編集ソフトの利用規約に従ってください。
